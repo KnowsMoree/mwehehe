@@ -1,4 +1,4 @@
-<?= $this->extend('layout/template'); ?>
+<?= $this->extend('layout/formTem'); ?>
 <?= $this->section('content'); ?>
 <div class="container-fluid">
     <div class="card mt-3">
